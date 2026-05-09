@@ -45,3 +45,11 @@ th {
 .cts-azul {
     background-color: #84a5d6;
 }
+
+.aditional-content{
+    font-style: italic;
+    color: #857272;
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 10px;
+}
