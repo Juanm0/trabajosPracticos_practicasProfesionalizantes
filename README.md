@@ -11,4 +11,4 @@ d. Espacios sin clases deben tener su propio color diferenciador
 3. Los estilos deben estar realizados en el archivo style.css.
 4. Cuando el mouse pase por una casilla, esta debe tener un un color suave.
 
-![horarios](./img/horarios.png)
+![horarios](./img/mujeres.png)
