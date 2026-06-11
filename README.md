@@ -23,6 +23,5 @@ En las consignas les especifiqué el esquema de carpetas a respetar para que los
 
 ¡Cualquier duda, nos vemos en el laboratorio!
 
-![horarios](./Portfolio-Grupal.pdf)
 
-<embed src="./Portfolio-Grupal.pdf" type="application/pdf" width="100%" height="600px" />
+[Ver consigna TP N° 3 (PDF)](./Portfolio-Grupal.pdf)
