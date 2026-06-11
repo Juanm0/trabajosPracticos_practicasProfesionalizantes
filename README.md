@@ -1,4 +1,4 @@
-***[TP1]***
+## 1. Trabajo Practico 1 [TP1]
 
 Consignas de evaluación
 Utilizando los conocimientos que adquiridos por el estudiante en HTML y CSS deberán Realizar
@@ -15,7 +15,7 @@ d. Espacios sin clases deben tener su propio color diferenciador
 
 ![horarios](./img/horarios.png)
 
-***[TP2]***
+## 2. Trabajo Practico 2 [TP2]
 
 ¡Hola!
 
@@ -38,7 +38,7 @@ Traten de investigar y elegir distintas referentes. ¡La idea es que no se repit
 
 
 
-***[TP3]***
+## 3. Trabajo Practico 3 [TP3]
 
 ¡Hola!
 
