@@ -25,4 +25,4 @@ En las consignas les especifiqué el esquema de carpetas a respetar para que los
 
 
 [Ver consigna TP N° 3 (PDF)](./Portfolio-Grupal.pdf)
-<iframe src="./Portfolio-Grupal.pdf" width="100%" height="600px"></iframe>
+![horarios](./img/horarios.png)
