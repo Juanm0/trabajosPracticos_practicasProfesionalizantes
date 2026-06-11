@@ -1,3 +1,4 @@
+***[TP1]***
 Consignas de evaluación
 Utilizando los conocimientos que adquiridos por el estudiante en HTML y CSS deberán Realizar
 un archivo horarios.html, el cual deberá contener el desarrollo indicado en las siguientes
@@ -13,7 +14,7 @@ d. Espacios sin clases deben tener su propio color diferenciador
 
 ![horarios](./img/horarios.png)
 
-***tp2***
+***[TP2]***
 
 ¡Hola!
 
