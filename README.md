@@ -1,19 +1,26 @@
 ¡Hola!
 
- Les comparto las consignas para el Trabajo Práctico N° 2, inspirado en la charla sobre Mujeres en Tecnología.
+Les comparto las consignas del TP N° 3, el desafío no es solo técnico, sino también de coordinación. Vamos a construir un Portfolio Grupal, una única web que nos presente a todos como equipo.
 
+Cada uno de ustedes será responsable de su propia página de presentación (NombreApellido.html), pero el sitio final debe verse como uno solo. 
 
-Dato adicional en relacion a lo conversado en clases, para integrar este trabajo a nuestra página de seguimiento, vamos a realizar un pequeño ajuste en la estructura de archivos que figura en el PDF:
+Tengan en cuenta que cada página debe permitir ir al compañero anterior, al siguiente o volver al inicio. 
 
-Nombre del archivo HTML: En lugar de index.html, utilicen uno descriptivo (ej: nombre-apellido.html o tp2.html).
+¡Para esto es vital que se listen por orden alfabético que les dejo abajo ↓↓ !
+Camila Barraza
+Nahuel Figueroa
+Natalia Gomez
+Lázaro Janco
+Solange Konrad
+Federico Lopez
+Elias Reinoso
+Juan Navarro
+Romero Milagros
+Luciano Rossi
+Esta ordenada por Apellido, pero pongan Nombre Apellido así no queda tan formal 😁
 
-Hoja de estilos: También pueden renombrar el archivo .css para evitar conflictos al subirlo (ej: nombre-apellido.css o estilos-tp2.css).
+En las consignas les especifiqué el esquema de carpetas a respetar para que los enlaces no se rompan al unificar el proyecto.
 
-El nombre-apellido es de la persona que decidieron hacer la web, cualquier duda, lo conversamos en clases!
+¡Cualquier duda, nos vemos en el laboratorio!
 
-Un pedido especial: 
-
-Traten de investigar y elegir distintas referentes. ¡La idea es que no se repitan, así entre todos logramos una galería variada para conocer a muchas mujeres que hicieron historia en la tecnología!
-
-  ¡A programar!
-![horarios](./img/mujeres.png)
+<embed src="./Prácticas-Profesionalizantes-I-Trabajo-Práctico-N°3-Portfolio-Grupal.pdf" type="application/pdf" width="100%" height="600px" />
