@@ -211,7 +211,8 @@ footer p {
     margin: 0 auto;
 }
 
-.conclusion{
-   color: #fff;
-   border-left: 4px solid #fff;
+.strong-tittle, 
+.conclusion  {
+   color: #000000;
+   border-left: 4px solid #000000;
 }
