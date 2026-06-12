@@ -218,54 +218,14 @@ footer p {
 
 /* ***********************CAMBIO DE IDIOMA CSS************************ */
 
-#lang-toggle {
+#ingles{
     display: none;
 }
 
-/* 2. Estilo del botón (que en realidad es un label) */
-.lang-btn {
-    background-color: #4480c5;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-family: sans-serif;
-    font-weight: bold;
-    user-select: none;/* IMPORTANTE, SI TENEMOS ALGO QUE SE CLIQUEA VARIAS VECES ESTO HACE QUE NO SE RESALTE EL TEXTOOO */
-    display: inline-block;
-    margin-bottom: 20px;
+#traducir:checked~#espanol{
+    display: none;
 }
 
-.lang-btn:hover {
-    background-color: #3072b8;
-}
-
-
-.content-es {
+#traducir:checked~#ingles{
     display: block;
-}
-
-.content-en {
-    display: none;
-}
-
-
-#lang-toggle:checked~.container .content-es {
-    display: none;
-}
-
-#lang-toggle:checked~.container .content-en {
-    display: block;
-}
-
-
-#lang-toggle:checked~.lang-btn::after {
-    content: " (EN)";
-    color: #ffcc00;
-}
-
-
-.lang-btn::after {
-    content: " (ES)";
-    margin-left: 5px;
 }
