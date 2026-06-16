@@ -40,14 +40,11 @@ header {
 .navbar {
 
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    
-    padding: 1rem 5%;
+    /* padding: 1rem 5%; */
     background-color: rgba(15, 23, 42, 0.95);
     border-bottom: 1px solid #334155;
-
-
     backdrop-filter: blur(1px);
 }
 
@@ -57,6 +54,8 @@ header {
 }
 
 .nav-links {
+    margin: 0;
+    padding: 0;
     list-style: none;
     display: flex;
     gap: 20px;
